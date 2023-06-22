@@ -42,9 +42,7 @@ button {
 
 #main-div{
     display: block;
-    margin: auto auto auto auto;
-    margin-top: auto;
-    margin-bottom:auto;
+    margin: auto;
     background: rgba(0, 0, 0, 0.8);
     background-blend-mode:color-burn;
     padding: 30px;
