@@ -47,7 +47,7 @@ button {
     background-blend-mode:color-burn;
     padding: 30px;
     border-radius: 20px;
-    width: 75%;
+    max-width: 200px;
 }
 
 #main-div:hover{
