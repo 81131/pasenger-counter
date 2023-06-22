@@ -1,0 +1,55 @@
+body {
+    background-image: url("cover2.jpg");
+    background-size: fixed;
+    background-position:center;
+    background-repeat: no-repeat;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: aliceblue;
+    
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
+#main-div{
+    display: block;
+    margin: auto auto auto auto;
+    background: rgba(0, 0, 0, 0.8);
+    background-blend-mode:color-burn;
+    padding: 30px;
+    border-radius: 20px;
+    max-width: 200px;
+}
+
+#main-div:hover{
+    opacity: 100%
+}
