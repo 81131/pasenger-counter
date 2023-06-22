@@ -43,6 +43,8 @@ button {
 #main-div{
     display: block;
     margin: auto;
+    margin-top: 25%;
+    margin-bottom: 25%;
     background: rgba(0, 0, 0, 0.8);
     background-blend-mode:color-burn;
     padding: 30px;
